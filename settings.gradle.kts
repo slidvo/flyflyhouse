@@ -12,6 +12,12 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 
+    versionCatalogs {
+        create("libs") {
+            from(files("app/libs/versions.toml"))
+        }
+    }
+
 }
 
 rootProject.name = "Fly-Fly House"
