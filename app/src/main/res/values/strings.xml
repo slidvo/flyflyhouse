@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fly-Fly House</string>
+    <string name="settings_title">Settings</string>
+    <string name="search_hint">Find an event, location or organizer</string>
+    <string name="upcoming_event_title">Upcoming event</string>
+    <string name="news_title">News</string>
+    <string name="other_button">Other</string>
+    <string name="news_types_button">News types</string>
+    <string name="min">min</string>
+</resources>
