@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.flyfly.flyflyhouse"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.flyfly.flyflyhouse"
-        minSdk = 25
-        targetSdk = 33
+        minSdk = 34
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
