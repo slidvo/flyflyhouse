@@ -61,6 +61,14 @@ dependencies {
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
+
+    implementation(libs.io.coil.kt.coil3.cc)
+    implementation(libs.io.coil.kt.coil3.cno)
+    implementation(libs.androidx.navigation.nc)
+    implementation(libs.androidx.navigation.nrktx)
+    implementation(libs.androidx.lifecycle.lvc)
+    implementation(libs.com.microsoft.design.fsi)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
