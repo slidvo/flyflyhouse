@@ -1,0 +1,5 @@
+[versions]
+androidxActivytyCompose="1.9.3"
+[libraries]
+anrdoidx-activity-activityCompose = { group = "androidx.activity", name = "activity-compose", version.ref = "androidxActivytyCompose" }
+[plugins]
